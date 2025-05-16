@@ -2,10 +2,6 @@
 <p align="center">
   <img src="https://github.com/Zain-Eldeen85/Zain-Eldeen85/blob/main/assets/Zain_Eldeen_Banner.png" alt="Custom GitHub Banner" />
 </p>
-<p align="center">
-  <img src="https://readme-hero-stats.vercel.app/api?username=Zain-Eldeen85&width=1200" alt="Zain Eldeen Hero Banner" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Zain Eldeen</h1>
 
 <p align="center">
