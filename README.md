@@ -1,5 +1,8 @@
 <!-- HERO BANNER -->
 <p align="center">
+  <img src="https://via.placeholder.com/1200x300.png?text=Custom+GitHub+Banner" alt="Custom GitHub Banner" />
+</p>
+<p align="center">
   <img src="https://readme-hero-stats.vercel.app/api?username=zaineldeen&width=1200" alt="Zain Eldeen Hero Banner" />
 </p>
 
