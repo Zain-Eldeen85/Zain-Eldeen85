@@ -91,10 +91,9 @@
 
 [![Email](https://img.shields.io/badge/zaineldeen85@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zaineldeen85@gmail.com)
 &nbsp;
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Coming_Soon-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zain_Eldeen-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zain-eldeen-8a8398254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 &nbsp;
 ![Website](https://img.shields.io/badge/Website-Coming_Soon-blue?style=for-the-badge)
-
 ---
 
 ## 🌍 النسخة العربية
