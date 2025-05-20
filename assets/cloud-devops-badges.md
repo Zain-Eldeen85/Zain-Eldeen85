@@ -1,0 +1,1 @@
+![UploadThing](https://img.shields.io/badge/UploadThing-4B32C3?style=for-the-badge&logo=uploadthing&logoColor=white) ![Mux](https://img.shields.io/badge/Mux-FF0033?style=for-the-badge&logo=mux&logoColor=white)
